@@ -11,6 +11,10 @@ return "Happy holidays!"
 //parameter of the name of the person you want to wish happy holidays, and return
 //the string `` `Happy holidays, ${name}!` ``
 
+function happyHolidaysTo(holiday, name) {
+return "Happy ${holiday}, ${name}!"
+  }
+
 //3. Write a function named `happyHolidayTo`. This function should accept two
 //parameters, the holiday you want to wish them well for, and the name of the
 //`` `Happy ${holiday}, ${name}!` ``
