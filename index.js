@@ -28,5 +28,5 @@ return `Happy ${holiday}, ${name}!`;
 //should return the string `` `It's ${days} days until ${holiday}!` ``
 
 function holidayCountdown(holiday, days) {
-return `It's ${days} until ${holiday}!`
+return `It's ${days} days until ${holiday}!`
   }
