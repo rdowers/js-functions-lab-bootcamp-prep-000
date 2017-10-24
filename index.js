@@ -4,7 +4,7 @@
 //parameters and should return the string `"Happy holidays!"`.
 
 function happyHolidays() {
-return "Happy holidays!"  
+return "Happy holidays!"
 }
 
 //2. Write a function named `happyHolidaysTo`. This function should accept a
