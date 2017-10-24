@@ -12,7 +12,7 @@ return "Happy holidays!";
 //the string `` `Happy holidays, ${name}!` ``
 
 function happyHolidaysTo(name) {
-return `Happy holidays, ${name}!`;
+return "Happy holidays, ${name}!";
   }
 
 //3. Write a function named `happyHolidayTo`. This function should accept two
