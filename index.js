@@ -4,7 +4,7 @@
 //parameters and should return the string `"Happy holidays!"`.
 
 function happyHolidays() {
-return "Happy holidays!"
+return "Happy holidays!";
 }
 
 //2. Write a function named `happyHolidaysTo`. This function should accept a
@@ -12,7 +12,7 @@ return "Happy holidays!"
 //the string `` `Happy holidays, ${name}!` ``
 
 function happyHolidaysTo(holiday, name) {
-return `Happy ${holiday}, ${name}!``
+return `Happy ${holiday}, ${name}!`;
   }
 
 //3. Write a function named `happyHolidayTo`. This function should accept two
